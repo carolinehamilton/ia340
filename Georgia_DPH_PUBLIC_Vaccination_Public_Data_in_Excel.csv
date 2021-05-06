@@ -1,0 +1,162 @@
+﻿COUNTY_ID,COUNTY_NAME,DISTRICT_ID,DISTRICT_NAME,VAXADMIN,RTCUMVAXADMIN,PERSONVAX,PCTCUMPVAX,PERSONCVAX,PCTCUMPCVAX
+00000,GEORGIA,NA,NA,6348671,61022,3667759,35.3,2787207,26.8
+13001,Appling County,09-2,9-2 Southeast (Waycross),6738,36540,3816,20.7,3219,17.5
+13003,Atkinson County,09-2,9-2 Southeast (Waycross),2977,36133,1771,21.5,1305,15.8
+13005,Bacon County,09-2,9-2 Southeast (Waycross),3717,33184,2079,18.6,1711,15.3
+13007,Baker County,08-2,8-2 Southwest (Albany),1674,53448,911,29.1,785,25.1
+13009,Baldwin County,05-2,5-2 North Central (Macon),22145,49090,12289,27.2,10187,22.6
+13011,Banks County,02-0,2 North (Gainesville),6396,34188,3620,19.4,2923,15.6
+13013,Barrow County,10-0,10 Northeast (Athens),32204,40769,18788,23.8,14073,17.8
+13015,Bartow County,01-1,1-1 Northwest (Rome),42519,40525,24533,23.4,18996,18.1
+13017,Ben Hill County,08-1,8-1 South (Valdosta),6777,39787,3846,22.6,3257,19.1
+13019,Berrien County,08-1,8-1 South (Valdosta),6911,36085,3877,20.2,3219,16.8
+13021,Bibb County,05-2,5-2 North Central (Macon),78365,51152,43318,28.3,35741,23.3
+13023,Bleckley County,05-1,5-1 South Central (Dublin),4130,32247,2339,18.3,1864,14.6
+13025,Brantley County,09-2,9-2 Southeast (Waycross),5193,27687,2897,15.4,2427,12.9
+13027,Brooks County,08-1,8-1 South (Valdosta),7851,50359,4299,27.6,3664,23.5
+13029,Bryan County,09-1,9-1 Coastal (Savannah),20471,55232,11571,31.2,9429,25.4
+13031,Bulloch County,09-2,9-2 Southeast (Waycross),29526,38788,16409,21.6,13586,17.8
+13033,Burke County,06-0,6 East Central (Augusta),10071,44720,5723,25.4,4560,20.2
+13035,Butts County,04-0,4 LaGrange,8316,34520,4808,20,3789,15.7
+13037,Calhoun County,08-2,8-2 Southwest (Albany),3678,57784,1990,31.3,1733,27.2
+13039,Camden County,09-1,9-1 Coastal (Savannah),22926,43068,12709,23.9,10698,20.1
+13043,Candler County,09-2,9-2 Southeast (Waycross),5163,47752,2901,26.8,2389,22.1
+13045,Carroll County,04-0,4 LaGrange,43845,37415,25493,21.8,19148,16.3
+13047,Catoosa County,01-1,1-1 Northwest (Rome),29990,44962,16845,25.3,13673,20.5
+13049,Charlton County,09-2,9-2 Southeast (Waycross),2808,21533,1608,12.3,1290,9.9
+13051,Chatham County,09-1,9-1 Coastal (Savannah),177320,61463,98742,34.2,81188,28.1
+13053,Chattahoochee County,07-0,7 West Central (Columbus),1674,15852,995,9.4,722,6.8
+13055,Chattooga County,01-1,1-1 Northwest (Rome),10740,43285,6007,24.2,4965,20
+13057,Cherokee County,01-2,1-2 North Georgia (Dalton),142328,57502,82236,33.2,63367,25.6
+13059,Clarke County,10-0,10 Northeast (Athens),74611,59132,41585,33,34206,27.1
+13061,Clay County,07-0,7 West Central (Columbus),1746,59166,967,32.8,779,26.4
+13063,Clayton County,03-3,3-3 Clayton (Jonesboro),109005,38444,65765,23.2,45198,15.9
+13065,Clinch County,09-2,9-2 Southeast (Waycross),2791,41743,1552,23.2,1288,19.3
+13067,Cobb County,03-1,3-1 Cobb/Douglas (Marietta),489360,65142,285219,38,209665,27.9
+13069,Coffee County,09-2,9-2 Southeast (Waycross),16468,38278,9207,21.4,7627,17.7
+13071,Colquitt County,08-2,8-2 Southwest (Albany),20034,44044,11261,24.8,9149,20.1
+13073,Columbia County,06-0,6 East Central (Augusta),75877,50348,42336,28.1,34195,22.7
+13075,Cook County,08-1,8-1 South (Valdosta),7400,43080,4066,23.7,3464,20.2
+13077,Coweta County,04-0,4 LaGrange,66244,46240,38985,27.2,29479,20.6
+13079,Crawford County,05-2,5-2 North Central (Macon),5183,42052,2935,23.8,2327,18.9
+13081,Crisp County,07-0,7 West Central (Columbus),11068,48729,6227,27.4,5081,22.4
+13083,Dade County,01-1,1-1 Northwest (Rome),7007,43261,3868,23.9,3306,20.4
+13085,Dawson County,02-0,2 North (Gainesville),11177,45553,6336,25.8,5128,20.9
+13087,Decatur County,08-2,8-2 Southwest (Albany),13218,49539,7354,27.6,6082,22.8
+13089,DeKalb County,03-5,3-5 DeKalb (Decatur),455935,60846,262915,35.1,196430,26.2
+13091,Dodge County,05-1,5-1 South Central (Dublin),6247,29991,3583,17.2,2968,14.2
+13093,Dooly County,07-0,7 West Central (Columbus),5613,40863,3109,22.6,2639,19.2
+13095,Dougherty County,08-2,8-2 Southwest (Albany),47789,53274,26239,29.3,22045,24.6
+13097,Douglas County,03-1,3-1 Cobb/Douglas (Marietta),64185,44785,38476,26.8,26883,18.8
+13099,Early County,08-2,8-2 Southwest (Albany),6071,58873,3268,31.7,2859,27.7
+13101,Echols County,08-1,8-1 South (Valdosta),1175,29515,729,18.3,481,12.1
+13103,Effingham County,09-1,9-1 Coastal (Savannah),25358,41929,14283,23.6,11547,19.1
+13105,Elbert County,10-0,10 Northeast (Athens),9821,51241,5331,27.8,4574,23.9
+13107,Emanuel County,06-0,6 East Central (Augusta),8489,37673,4784,21.2,3950,17.5
+13109,Evans County,09-2,9-2 Southeast (Waycross),4792,44839,2696,25.2,2164,20.2
+13111,Fannin County,01-2,1-2 North Georgia (Dalton),13578,53467,7440,29.3,6381,25.1
+13113,Fayette County,04-0,4 LaGrange,83595,74437,47621,42.4,37438,33.3
+13115,Floyd County,01-1,1-1 Northwest (Rome),50382,51743,27684,28.4,23419,24.1
+13117,Forsyth County,02-0,2 North (Gainesville),144291,63179,84033,36.8,63083,27.6
+13119,Franklin County,02-0,2 North (Gainesville),9836,43204,5524,24.3,4516,19.8
+13121,Fulton County,03-2,3-2 Fulton (Atlanta),669747,64634,387069,37.4,287192,27.7
+13123,Gilmer County,01-2,1-2 North Georgia (Dalton),16958,55757,9342,30.7,7976,26.2
+13125,Glascock County,06-0,6 East Central (Augusta),1043,34813,589,19.7,490,16.4
+13127,Glynn County,09-1,9-1 Coastal (Savannah),54419,64424,29429,34.8,26093,30.9
+13129,Gordon County,01-1,1-1 Northwest (Rome),24657,43105,14080,24.6,11097,19.4
+13131,Grady County,08-2,8-2 Southwest (Albany),11323,45605,6229,25.1,5286,21.3
+13133,Greene County,10-0,10 Northeast (Athens),11577,66730,6473,37.3,5376,31
+13135,Gwinnett County,03-4,3-4 East Metro (Lawrenceville),535602,58532,313531,34.3,228578,25
+13137,Habersham County,02-0,2 North (Gainesville),21109,47302,12104,27.1,9511,21.3
+13139,Hall County,02-0,2 North (Gainesville),93577,47102,54061,27.2,41939,21.1
+13141,Hancock County,05-2,5-2 North Central (Macon),4358,51180,2428,28.5,2050,24.1
+13143,Haralson County,01-1,1-1 Northwest (Rome),10847,37112,6130,21,5034,17.2
+13145,Harris County,07-0,7 West Central (Columbus),16459,48259,9242,27.1,7634,22.4
+13147,Hart County,02-0,2 North (Gainesville),12118,47018,6745,26.2,5584,21.7
+13149,Heard County,04-0,4 LaGrange,3149,26831,1837,15.7,1426,12.2
+13151,Henry County,04-0,4 LaGrange,100357,44532,58985,26.2,43877,19.5
+13153,Houston County,05-2,5-2 North Central (Macon),72872,47471,41310,26.9,33283,21.7
+13155,Irwin County,08-1,8-1 South (Valdosta),3838,41180,2124,22.8,1873,20.1
+13157,Jackson County,10-0,10 Northeast (Athens),31904,46997,18188,26.8,14549,21.4
+13159,Jasper County,05-2,5-2 North Central (Macon),5249,37719,2917,21,2426,17.4
+13161,Jeff Davis County,09-2,9-2 Southeast (Waycross),4912,32668,2717,18.1,2320,15.4
+13163,Jefferson County,06-0,6 East Central (Augusta),8009,51280,4588,29.4,3652,23.4
+13165,Jenkins County,06-0,6 East Central (Augusta),3297,37495,1793,20.4,1535,17.5
+13167,Johnson County,05-1,5-1 South Central (Dublin),3369,34764,1897,19.6,1539,15.9
+13169,Jones County,05-2,5-2 North Central (Macon),13762,48154,7581,26.5,6362,22.3
+13171,Lamar County,04-0,4 LaGrange,7428,39781,4087,21.9,3363,18
+13173,Lanier County,08-1,8-1 South (Valdosta),2912,28053,1625,15.7,1346,13
+13175,Laurens County,05-1,5-1 South Central (Dublin),21840,46071,12224,25.8,10073,21.2
+13177,Lee County,08-2,8-2 Southwest (Albany),17497,59307,9551,32.4,8124,27.5
+13179,Liberty County,09-1,9-1 Coastal (Savannah),16459,26828,9261,15.1,7432,12.1
+13181,Lincoln County,06-0,6 East Central (Augusta),3916,49847,2138,27.2,1808,23
+13183,Long County,09-1,9-1 Coastal (Savannah),3468,18553,2010,10.8,1558,8.3
+13185,Lowndes County,08-1,8-1 South (Valdosta),45746,39653,25444,22.1,21236,18.4
+13187,Lumpkin County,02-0,2 North (Gainesville),13638,42089,7672,23.7,6253,19.3
+13189,McDuffie County,06-0,6 East Central (Augusta),9116,42488,5163,24.1,4023,18.8
+13191,McIntosh County,09-1,9-1 Coastal (Savannah),7229,51001,3935,27.8,3422,24.1
+13193,Macon County,07-0,7 West Central (Columbus),5927,44547,3319,24.9,2707,20.3
+13195,Madison County,10-0,10 Northeast (Athens),15382,52645,8533,29.2,7055,24.1
+13197,Marion County,07-0,7 West Central (Columbus),3477,41235,1986,23.6,1522,18.1
+13199,Meriwether County,04-0,4 LaGrange,9123,43224,5147,24.4,4125,19.5
+13201,Miller County,08-2,8-2 Southwest (Albany),3709,64091,1993,34.4,1784,30.8
+13205,Mitchell County,08-2,8-2 Southwest (Albany),11398,51240,6315,28.4,5357,24.1
+13207,Monroe County,05-2,5-2 North Central (Macon),13418,49383,7378,27.2,6245,23
+13209,Montgomery County,05-1,5-1 South Central (Dublin),3032,33473,1714,18.9,1438,15.9
+13211,Morgan County,10-0,10 Northeast (Athens),9915,53574,5712,30.9,4609,24.9
+13213,Murray County,01-2,1-2 North Georgia (Dalton),16160,40680,9159,23.1,7092,17.9
+13215,Muscogee County,07-0,7 West Central (Columbus),83749,42786,48701,24.9,37746,19.3
+13217,Newton County,03-4,3-4 East Metro (Lawrenceville),45641,42229,26690,24.7,19640,18.2
+13219,Oconee County,10-0,10 Northeast (Athens),30139,79038,16603,43.5,13868,36.4
+13221,Oglethorpe County,10-0,10 Northeast (Athens),8049,53907,4380,29.3,3727,25
+13223,Paulding County,01-1,1-1 Northwest (Rome),61998,38791,36996,23.1,26598,16.6
+13225,Peach County,05-2,5-2 North Central (Macon),13283,48933,7700,28.4,5780,21.3
+13227,Pickens County,01-2,1-2 North Georgia (Dalton),18141,57797,9978,31.8,8517,27.1
+13229,Pierce County,09-2,9-2 Southeast (Waycross),7484,38877,4137,21.5,3525,18.3
+13231,Pike County,04-0,4 LaGrange,6776,36972,3818,20.8,3087,16.8
+13233,Polk County,01-1,1-1 Northwest (Rome),18503,44151,10238,24.4,8353,19.9
+13235,Pulaski County,05-1,5-1 South Central (Dublin),4261,37990,2368,21.1,1970,17.6
+13237,Putnam County,05-2,5-2 North Central (Macon),10024,46212,5594,25.8,4647,21.4
+13239,Quitman County,07-0,7 West Central (Columbus),976,42638,545,23.8,438,19.1
+13241,Rabun County,02-0,2 North (Gainesville),10158,61027,5551,33.3,4665,28
+13243,Randolph County,07-0,7 West Central (Columbus),3388,48587,1861,26.7,1542,22.1
+13245,Richmond County,06-0,6 East Central (Augusta),84873,42047,47695,23.6,38099,18.9
+13247,Rockdale County,03-4,3-4 East Metro (Lawrenceville),48029,53533,27809,31,20763,23.1
+13249,Schley County,07-0,7 West Central (Columbus),2119,40586,1146,21.9,995,19.1
+13251,Screven County,06-0,6 East Central (Augusta),6955,49717,3829,27.4,3197,22.9
+13253,Seminole County,08-2,8-2 Southwest (Albany),4261,51207,2348,28.2,2030,24.4
+13255,Spalding County,04-0,4 LaGrange,28418,43515,16196,24.8,12548,19.2
+13257,Stephens County,02-0,2 North (Gainesville),12743,49487,6910,26.8,5896,22.9
+13259,Stewart County,07-0,7 West Central (Columbus),2412,38328,1352,21.5,1076,17.1
+13261,Sumter County,07-0,7 West Central (Columbus),18115,60254,9871,32.8,8311,27.6
+13263,Talbot County,07-0,7 West Central (Columbus),3276,51827,1845,29.2,1468,23.2
+13265,Taliaferro County,06-0,6 East Central (Augusta),702,43575,401,24.9,327,20.3
+13267,Tattnall County,09-2,9-2 Southeast (Waycross),8819,34745,5151,20.3,4165,16.4
+13269,Taylor County,07-0,7 West Central (Columbus),4173,51416,2322,28.6,1898,23.4
+13271,Telfair County,05-1,5-1 South Central (Dublin),4223,26336,2397,14.9,1937,12.1
+13273,Terrell County,08-2,8-2 Southwest (Albany),5400,61806,2959,33.9,2482,28.4
+13275,Thomas County,08-2,8-2 Southwest (Albany),24567,55045,13454,30.1,11439,25.6
+13277,Tift County,08-1,8-1 South (Valdosta),18495,45620,10155,25,8564,21.1
+13279,Toombs County,09-2,9-2 Southeast (Waycross),10429,38666,6131,22.7,5112,19
+13281,Towns County,02-0,2 North (Gainesville),8645,74416,4620,39.8,4087,35.2
+13283,Treutlen County,05-1,5-1 South Central (Dublin),2202,32406,1236,18.2,997,14.7
+13285,Troup County,04-0,4 LaGrange,24950,35684,14125,20.2,11415,16.3
+13287,Turner County,08-1,8-1 South (Valdosta),4149,52234,2316,29.2,1894,23.8
+13289,Twiggs County,05-2,5-2 North Central (Macon),4192,50941,2365,28.7,1905,23.1
+13291,Union County,02-0,2 North (Gainesville),15539,66725,8374,36,7388,31.7
+13293,Upson County,04-0,4 LaGrange,13758,52439,7569,28.8,6258,23.9
+13295,Walker County,01-1,1-1 Northwest (Rome),26332,38140,14994,21.7,12001,17.4
+13297,Walton County,10-0,10 Northeast (Athens),41440,45318,23781,26,18445,20.2
+13299,Ware County,09-2,9-2 Southeast (Waycross),15570,43744,8710,24.5,7160,20.1
+13301,Warren County,06-0,6 East Central (Augusta),2462,46479,1380,26.1,1105,20.9
+13303,Washington County,05-2,5-2 North Central (Macon),8698,42562,4856,23.8,3996,19.6
+13305,Wayne County,09-2,9-2 Southeast (Waycross),11668,39170,6661,22.4,5531,18.6
+13307,Webster County,07-0,7 West Central (Columbus),1380,52873,751,28.8,625,23.9
+13309,Wheeler County,05-1,5-1 South Central (Dublin),2056,25933,1149,14.5,969,12.2
+13311,White County,02-0,2 North (Gainesville),13388,45399,7411,25.1,6233,21.1
+13313,Whitfield County,01-2,1-2 North Georgia (Dalton),49928,47898,28488,27.3,22304,21.4
+13315,Wilcox County,05-1,5-1 South Central (Dublin),3248,36808,1814,20.6,1478,16.7
+13317,Wilkes County,06-0,6 East Central (Augusta),4411,44809,2477,25.2,2045,20.8
+13319,Wilkinson County,05-2,5-2 North Central (Macon),5401,59944,3009,33.4,2479,27.5
+13321,Worth County,08-2,8-2 Southwest (Albany),10063,49102,5505,26.9,4757,23.2
+99999,Unknown,NA,NA,908509,8732,551484,5.3,380212,3.7
